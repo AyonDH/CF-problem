@@ -1,0 +1,1 @@
+{"name":"Local: 779D","url":"c:\\Users\\ASUS\\OneDrive\\Desktop\\c++ prac\\779D.cpp","tests":[{"id":1741710294937,"input":"ababcba\nabb\n5 3 4 1 7 6 2\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\OneDrive\\Desktop\\c++ prac\\779D.cpp","group":"local","local":true}

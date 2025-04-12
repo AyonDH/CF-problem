@@ -1,0 +1,1 @@
+{"name":"Local: nene_card_game","url":"e:\\c++ prac\\nene_card_game.cpp","tests":[{"id":1718263694303,"input":"5\n4\n1 1 2 3\n8\n7 4 1 2 8 8 5 5\n8\n7 1 4 5 3 4 2 6\n3\n1 2 3\n1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ prac\\nene_card_game.cpp","group":"local","local":true}
